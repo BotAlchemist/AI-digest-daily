@@ -1,2 +1,4 @@
 streamlit==1.20
 requests
+pandas==0.0.0
+numpy==1.23.5
